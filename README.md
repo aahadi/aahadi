@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Alireza Ahadi and I'm a data scientist!
 
 <!--
 **aahadi/aahadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
