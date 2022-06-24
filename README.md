@@ -1,6 +1,9 @@
 <h3> About me </h3> 
 
-Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connected Intelligence Centre at the University of Technology Sydney, where I work with Professor Kirsty Kitto, studying the application of skills analytics in education. I am interested in the use of labour market's skill language in presenting different educational objects (course, subject, student's profile, etc) and explore their relationships. To do that, I use an intersection of data science, skills analytics, and information retreival techniques on different types of dataset (educational, labor insights, demographic, occupational, etc) which help with problems that higher education faces such as curriculum skill gaps, higher education skill-based course recommendation system, and graduate-employability (Find out more about why I do what I do in lower sections). <br><br>
+Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connected Intelligence Centre at the University of Technology Sydney, where I work with Professor Kirsty Kitto, studying the application of skills analytics in education. I am interested in the use of labour market's skill language in presenting different educational objects (course, subject, student's profile, etc) and explore their relationships. To do that, I use an intersection of data science, skills analytics, and information retreival techniques on different types of dataset (educational, labor insights, demographic, occupational, etc) which help with problems that higher education faces such as curriculum skill gaps, higher education skill-based course recommendation system, and graduate-employability (Find out more about why I do what I do in lower sections). <br>
+🌱 I’m currently learning construction of taxonomies from scratch, and evaluation of the skill-based presenation of curricula and creating a network of skillified entities where objects from different contexts (students, employers, academics, job recruiters) can speak the same (skill) language.
+<br>
+
 📫 How to reach me: email me at alireza.ahadi@uts.edu.au 
 
 <h3> My education background </h3> 
@@ -18,14 +21,10 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
 &emsp;&emsp; #Data Science &ensp; #Skills Analytics &ensp; #Curriculum Analytics; #R &ensp; #AWS &ensp; #SQL &ensp; #PowerBI &ensp; #Burning Glass data &ensp; #EMSI 
 &ensp;  #ANZSCO    &ensp;  #Graduate-employability     &ensp;    #RecSys    &ensp;      #Similarity     &ensp;   #Skill bag     &ensp;   #Skill Scoring   <br>
 
-
-<h3> My research </h3> 
-
-<h5> Research Statement</h5> 
-My primary research is  
-
-
-
+<h3> My Euology </h3> 
+<h3> My Vision Statement </h3> 
+<h3> My Research Statement</h3> 
+<h3> My Teaching Statement</h3> 
 
 
 
