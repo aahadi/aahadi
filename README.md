@@ -1,7 +1,7 @@
 <h3> About me </h3> 
 
 Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connected Intelligence Centre at the University of Technology Sydney, where I work with Professor Kirsty Kitto, studying the application of skills analytics in education. I am interested in the use of labour market's skill language in presenting different educational objects (course, subject, student's profile, etc) and explore their relationships. To do that, I use an intersection of data science, skills analytics, and information retreival techniques on different types of dataset (educational, labor insights, demographic, occupational, etc) which help with problems that higher education faces such as curriculum skill gaps, higher education skill-based course recommendation system, and graduate-employability (Find out more about why I do what I do in lower sections). <br>
-🌱 I’m currently learning construction of taxonomies from scratch, and evaluation of the skill-based presenation of curricula and creating a network of skillified entities where objects from different contexts (students, employers, academics, job recruiters) can speak the same (skill) language.
+🌱 I’m currently learning how to construct a taxonomy from scratch and use it parse textual data, and am focused on technical evaluation of the skill-based presenation of curricula, and am aiming to creating a network of skillified entities where objects from different contexts (students, employers, academics, job recruiters) can speak the same (skill) language.
 <br>
 
 📫 How to reach me: email me at alireza.ahadi@uts.edu.au 
