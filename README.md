@@ -1,4 +1,8 @@
 ### Hi there 👋 my name is Alireza Ahadi and I'm a data scientist!
+ <h3> About me </h3> 
+I am a Postdoc Research Fellow in Learning Analytics with the Connected Intelligence Centre at the University of Technology Sydney, where I work with Professor Kirsty Kitto, studying the application of skills analytics in education. I am interested in the use of labour market's skill language in presenting different educational objects (course, subject, student's profile, etc) and explore their relationships. To do that, I use an intersection of data science, skills analytics, and information retreival techniques on different types of dataset (educational, labor insights, demographic, occupational, etc) which help with problems that higher education faces such as curriculum skill gaps, higher education skill-based course recommendation system, and graduate-employability (Find out more about why I do what I do in lower sections). 
+
+
 <h3> My education background </h3> 
  2008 BSC in Computer Science <br>
  2013 MSC in Information Technology <br>
@@ -9,8 +13,12 @@
  &emsp;&emsp; #Lecturer &ensp; #Tutor &ensp; #Content Developer &ensp; #Databases &ensp; #Programming <br>
 <b> 2019 - 2021 Post-doc Research Fellow at Macquarie University Sydney Australia  </b> <br>
  &emsp;&emsp; #Text mining &ensp; #Natural Language Processing &ensp; #Computational Discourse &ensp; #Professional Development Design &ensp; #RapidMiner &ensp; #Python  <br>
+ 
+
+ 
+ 
 <b> 2021 - current Post-doc Research Fellow at University of Technology Sydney Australia </b> <br>
-&emsp;&emsp; #Data Science &ensp; #Skills Analytics &Curriculum Analytics; #R &ensp; #AWS &ensp; #SQL &ensp; #PowerBI &ensp; #Burning Glass data &ensp; #EMSI 
+&emsp;&emsp; #Data Science &ensp; #Skills Analytics &ensp; #Curriculum Analytics; #R &ensp; #AWS &ensp; #SQL &ensp; #PowerBI &ensp; #Burning Glass data &ensp; #EMSI 
 &ensp;  #ANZSCO    &ensp;    #Graduate-employability     &ensp;    #RecSys    &ensp;      #Similarity     &ensp;   #Skill bag     &ensp;   #Skill Scoring   <br>
 
 
