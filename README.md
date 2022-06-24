@@ -16,9 +16,7 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
   
 <b> 2021 - current Post-doc Research Fellow at University of Technology Sydney Australia </b> <br>
 &emsp;&emsp; #Data Science &ensp; #Skills Analytics &ensp; #Curriculum Analytics; #R &ensp; #AWS &ensp; #SQL &ensp; #PowerBI &ensp; #Burning Glass data &ensp; #EMSI 
-&ensp;  #ANZSCO    &ensp;  <br>
-
-&ensp; &ensp; #Graduate-employability     &ensp;    #RecSys    &ensp;      #Similarity     &ensp;   #Skill bag     &ensp;   #Skill Scoring   <br>
+&ensp;  #ANZSCO    &ensp;  #Graduate-employability     &ensp;    #RecSys    &ensp;      #Similarity     &ensp;   #Skill bag     &ensp;   #Skill Scoring   <br>
 
 
 <h3> My research </h3> 
