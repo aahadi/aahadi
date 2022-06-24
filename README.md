@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Alireza Ahadi and I'm a data scientist!
+### Hi there 👋 my name is Alireza Ahadi and I'm a data scientist!
 <h3> My education background </h3> 
  2008 BSC in Computer Science <br>
  2013 MSC in Information Technology <br>
@@ -15,6 +15,8 @@
 
 
 <h3> My research </h3> 
+
+<h3> Research Statement</h3> 
 My primary research is  
 
 
