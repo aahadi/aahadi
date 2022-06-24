@@ -1,7 +1,7 @@
-### Hi there 👋 my name is Alireza Ahadi and I'm a data scientist!
- <h3> About me </h3> 
-I am a Postdoc Research Fellow in Learning Analytics with the Connected Intelligence Centre at the University of Technology Sydney, where I work with Professor Kirsty Kitto, studying the application of skills analytics in education. I am interested in the use of labour market's skill language in presenting different educational objects (course, subject, student's profile, etc) and explore their relationships. To do that, I use an intersection of data science, skills analytics, and information retreival techniques on different types of dataset (educational, labor insights, demographic, occupational, etc) which help with problems that higher education faces such as curriculum skill gaps, higher education skill-based course recommendation system, and graduate-employability (Find out more about why I do what I do in lower sections). 
+<h3> About me </h3> 
 
+Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connected Intelligence Centre at the University of Technology Sydney, where I work with Professor Kirsty Kitto, studying the application of skills analytics in education. I am interested in the use of labour market's skill language in presenting different educational objects (course, subject, student's profile, etc) and explore their relationships. To do that, I use an intersection of data science, skills analytics, and information retreival techniques on different types of dataset (educational, labor insights, demographic, occupational, etc) which help with problems that higher education faces such as curriculum skill gaps, higher education skill-based course recommendation system, and graduate-employability (Find out more about why I do what I do in lower sections). <br><br>
+📫 How to reach me: email me at alireza.ahadi@uts.edu.au 
 
 <h3> My education background </h3> 
  2008 BSC in Computer Science <br>
@@ -33,7 +33,7 @@ My primary research is
 
 
 
-📫 How to reach me: email me at alireza.ahadi@uts.edu.au
+
 <!--
 **aahadi/aahadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
