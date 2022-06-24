@@ -18,7 +18,7 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
  &emsp;&emsp; #Text mining &ensp; #Natural Language Processing &ensp; #Computational Discourse &ensp; #Professional Development Design &ensp; #RapidMiner &ensp; #Python  <br>
   
 <b> 2021 - current Post-doc Research Fellow at University of Technology Sydney Australia </b> <br>
-&emsp;&emsp; #Data Science &ensp; #Skills Analytics &ensp; #Curriculum Analytics; #R &ensp; #AWS &ensp; #SQL &ensp; #PowerBI &ensp; #Burning Glass data &ensp; #EMSI 
+&emsp;&emsp; #Data Science &ensp; #Skills Analytics &ensp; #Curriculum Analytics; #R &ensp; #AWS &ensp; #SQL &ensp;      #DynamoDB &ensp;  #PowerBI &ensp; #Burning Glass data &ensp; #EMSI 
 &ensp;  #ANZSCO    &ensp;  #Graduate-employability     &ensp;    #RecSys    &ensp;      #Similarity     &ensp;   #Skill bag     &ensp;   #Skill Scoring   <br>
 
 <h3> My Euology </h3> 
