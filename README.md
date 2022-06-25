@@ -32,9 +32,9 @@ Please see my academic CV which is available for download as a word document.
 I have the experience of teaching more 5,000 students at University of technology Sydney. Majority of the subjects that I teached at UTS are offered by school of computer science FKA school of software. The primary subjects of my interests are programming fundamentals, and database fundamentals, from which the main data for my PhD was collected.
 
 
-
-
-
+<br><br>
+<br>
+<br>
 
 ⚡ My fav links: <br>
 
