@@ -36,5 +36,7 @@ I have the experience of teaching more 5,000 students at University of technolog
 
 
 
-⚡ Fun projects: https://www.economicmodeling.com/2019/07/24/wgu-creates-value-by-skill-mapping-to-curriculum/?utm_medium=email&_hsmi=200189458&_hsenc=p2ANqtz-_mjEBx1m8WiLQVE6Gp_MDVzX9z5qMZvSSZwbqeqMN_KQlp_z-lAgDSf6CAQsLgtTE-wzxN9csQlqfsEDRTFveezG7pfA&utm_source=hs_email
+⚡ My fav links: <br>
+
+https://www.economicmodeling.com/2019/07/24/wgu-creates-value-by-skill-mapping-to-curriculum/?utm_medium=email&_hsmi=200189458&_hsenc=p2ANqtz-_mjEBx1m8WiLQVE6Gp_MDVzX9z5qMZvSSZwbqeqMN_KQlp_z-lAgDSf6CAQsLgtTE-wzxN9csQlqfsEDRTFveezG7pfA&utm_source=hs_email
 
