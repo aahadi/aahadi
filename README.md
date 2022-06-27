@@ -29,7 +29,7 @@ My research journey began when I was introduced to education research by Profess
 Please, see my academic CV which is available for download as a word document.
 
 <h3> My Teaching Statement</h3> 
-I have the experience of teaching more 5,000 students at University of technology Sydney. Majority of the subjects that I teached at UTS are offered by school of computer science FKA school of software. The primary subjects of my interests are programming fundamentals, and database fundamentals, from which the main data for my PhD was collected.
+I have experience teaching more than 5,000 students at the University of Technology in Sydney. Most of the subjects that I taught at UTS are offered by the computer science school, formally known as the Software School. The primary subjects of my interests are programming fundamentals and database fundamentals, from which the main data for my PhD were collected.
 
 
 <br><br>
