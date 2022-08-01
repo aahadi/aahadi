@@ -35,7 +35,10 @@ I have experience teaching more than 5,000 students at the University of Technol
 <br><br>
 <br>
 <br>
-
+⚡ New publications: <br>
+https://educationaldatamining.org/edm2022/proceedings/2022.EDM-posters.56/index.html
+<br>
+<br>
 ⚡ My fav links: <br>
 Progress update: https://www.youtube.com/watch?v=HS66Fmw-uvc <br>
 
