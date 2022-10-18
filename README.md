@@ -23,9 +23,9 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
 
 <h4>  UTS TRACK explorer
  <br>
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=JLMbpiywVxQ)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 Please, see my academic CV which is available for download as a word document.
 
