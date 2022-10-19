@@ -26,8 +26,7 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
 <h4>  UTS TRACK explorer
 <p> I had the opportunity to work with a team of academics at University of Technology Sydney on skills analytics for higher education: </p>
  <br>
-<object data="http://www.youtube.com/embed/W7qWa52k-nE"
-   width="560" height="315"></object>
+![](http://damien.pobel.fr/images/youtube-video-github.gif)
          
          
 </a>
