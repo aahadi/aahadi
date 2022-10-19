@@ -28,8 +28,7 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
  <br>
 See also [Embed a Youtube video in Github markdown](http://damien.pobel.fr/post/youtube-video-github/)
    <br>       
-         
-</a>
+         </a>
 
 Please, see my academic CV which is available for download as a word document.
 
