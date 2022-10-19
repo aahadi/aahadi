@@ -22,9 +22,10 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
 &ensp;  #ANZSCO    &ensp;  #Graduate-employability     &ensp;    #RecSys    &ensp;      #Similarity     &ensp;   #Skill bag     &ensp;   #Skill Scoring   <br>
 
 <h4>  UTS TRACK explorer
+<p> I had the opportunity to work with a team of academics at University of Technology Sydney on skills analytics for higher education: </p>
  <br>
 <a href="https://www.youtube.com/watch?v=2jrEiqaWJUU" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ 
 </a>
 
 Please, see my academic CV which is available for download as a word document.
