@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <h3> About me </h3> 
 
 Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connected Intelligence Centre at the University of Technology Sydney, where I work with Professor Kirsty Kitto, studying the application of skills analytics in education. I am interested in the use of the labour market's skill language in presenting different educational objects (course, subject, student's profile, etc.) and their relationships. To do that, I use an intersection of data science, skills analytics, and information retrieval techniques on different types of dataset (educational, labour insights, demographic, occupational, etc.) which help with problems that higher education faces, such as curriculum skill gaps, higher education skill-based course recommendation system, and graduate-employability (find out more about why I do what I do in lower sections).
@@ -55,4 +59,7 @@ https://labourmarketinsights.gov.au/
 <br>
 
 https://www.nationalskillscommission.gov.au/reports/australian-skills-classification-20
+
+</body>
+</html>
 
