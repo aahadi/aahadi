@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
+
 <h3> About me </h3> 
 
 Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connected Intelligence Centre at the University of Technology Sydney, where I work with Professor Kirsty Kitto, studying the application of skills analytics in education. I am interested in the use of the labour market's skill language in presenting different educational objects (course, subject, student's profile, etc.) and their relationships. To do that, I use an intersection of data science, skills analytics, and information retrieval techniques on different types of dataset (educational, labour insights, demographic, occupational, etc.) which help with problems that higher education faces, such as curriculum skill gaps, higher education skill-based course recommendation system, and graduate-employability (find out more about why I do what I do in lower sections).
@@ -28,8 +30,8 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
 <h4>  UTS TRACK explorer
 <p> I had the opportunity to work with a team of academics at University of Technology Sydney on skills analytics for higher education: </p>
  <br>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>   
-         </a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> 
+
 
 Please, see my academic CV which is available for download as a word document.
 
