@@ -25,8 +25,12 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
 <p> I had the opportunity to work with a team of academics at University of Technology Sydney on skills analytics for higher education: </p>
  <br>
 <a href="https://www.youtube.com/watch?v=2jrEiqaWJUU" target="_blank">
-   <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+   <img alt="TRACK" src="https://giphy.com/embed/144Q1gg0FkTEVG"
          width=150" height="70">
+         
+         <iframe src="https://giphy.com/embed/144Q1gg0FkTEVG" width="480" height="403" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-link-144Q1gg0FkTEVG">via GIPHY</a></p>
+         
+         
 </a>
 
 Please, see my academic CV which is available for download as a word document.
