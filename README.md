@@ -29,9 +29,8 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
 
 <h4>  UTS TRACK explorer
 <p> I had the opportunity to work with a team of academics at University of Technology Sydney on skills analytics for higher education: </p>
- <br>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> 
-
+ 
+<img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.classic.svg">
 
 Please, see my academic CV which is available for download as a word document.
 
