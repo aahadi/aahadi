@@ -27,11 +27,11 @@ Hi there! I am a Postdoc Research Fellow in Learning Analytics with the Connecte
 &emsp;&emsp; #Data Science &ensp; #Skills Analytics &ensp; #Curriculum Analytics; #R &ensp; #AWS &ensp; #SQL &ensp;      #DynamoDB &ensp;  #PowerBI &ensp; #Burning Glass data &ensp; #EMSI 
 &ensp;  #ANZSCO    &ensp;  #Graduate-employability     &ensp;    #RecSys    &ensp;      #Similarity     &ensp;   #Skill bag     &ensp;   #Skill Scoring   <br>
 
-⚡ Xurrently working with UTS on TRACK's skills analytics engine: <br>
+⚡ Currently working with UTS on TRACK's skills analytics engine: <br>
 https://www.youtube.com/watch?v=2jrEiqaWJUU&ab_channel=UniversityofTechnologySydney
 <br>
 <br>
-<p> I had the opportunity to work with a team of academics at University of Technology Sydney on skills analytics for higher education: </p>
+
  
 <img alt="" width="400" src="https://youtu.be/2jrEiqaWJUU">
 
