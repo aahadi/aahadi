@@ -8,7 +8,7 @@
 
 Hi there! 
 
-I'm a Data scientist, or at least I like thi think that I am one!
+I'm a Data scientist, or at least I like thi think that I am one! I started playing around with the data 
 
 
 
