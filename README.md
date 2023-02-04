@@ -6,11 +6,11 @@
 
 <h4 style="color:blue"> My Data Science Journey </h4>
 
-I started playing around with data for in a methodological manner for the first time as a casual academic in 2011. 
+I started playing around with data in a methodological manner for the first time in 2011 and as a casual academic in Sydney. 
 
 
 
-I started learning t 
+
 
 
 
