@@ -8,7 +8,7 @@
 
 <p style="color:red"> Education: </p> Phd in Data Analytics - Masters in IT - Bachelor degree in IT<br>
 <br>
-Recent Work Experience: 4 years work experience of applying Data Science to different discipliens<br>
+<p style="color:red">Recent Work Experience: </p> 4 years work experience of applying Data Science to different discipliens<br>
 2019 - 2020 : #Text mining #Rapid Miner #NLP #Eye movement data analytics #Text similarity #Advanced statistics #Gene regulation analysis #Python #Deep Learning #TensorFlow #Data mining #Machine Learning<br>
 2021 - 2022 : #Information Retreivla #Ranking #RecSys #Labour Insight data #Lightcast (Burning Glass) #AWS #SQL #DynamoDB #API programming #R #Shiny #Document analysis #Skillification #PowerBI <br>
 
