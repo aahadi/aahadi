@@ -2,22 +2,32 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3 style="color:red"> Welcome to my personal homepage </h3> 
+<h2 style="color:red"> Welcome to my personal homepage </h2> 
 
-<h4 style="color:blue"> Me in breif </h4>
+<h3 style="color:blue"> Me in breif </h3>
 
-Education: Phd in Data Analytics - Masters in IT - Bachelor degree in IT
+Education: Phd in Data Analytics - Masters in IT - Bachelor degree in IT<br>
+<br>
+Recent Work Experience: 4 years work experience of applying Data Science to different discipliens<br>
+2019 - 2020 : #Text mining #Rapid Miner #NLP #Eye movement data analytics #Text similarity #Advanced statistics #Gene regulation analysis #Python #Deep Learning #TensorFlow #Data mining #Machine Learning<br>
+2021 - 2022 : #Information Retreivla #Ranking #RecSys #Labour Insight data #Lightcast (Burning Glass) #AWS #SQL #DynamoDB #API programming #R #Shiny #Document analysis #Skillification #PowerBI <br>
 
-Work Experience: 4 years work experience of applying Data Science to different discipliens
-
-#2019 - 2020 : 
+⚡ My most recent work with UTS on TRACK's skills analytics engine: <br>
+https://www.youtube.com/watch?v=2jrEiqaWJUU&ab_channel=UniversityofTechnologySydney
 
 <h4 style="color:blue"> Me Now </h4>
 
-🌱 I’m currently learning how to construct a taxonomy from scratch and use it to parse textual data, and am focused on technical evaluation of the skill-based presentation of curricula, and am aiming to creating a network of skillified entities where objects from different contexts (students, employers, academics, job recruiters) can speak the same (skill) language.
+🌱 I’m currently trying to extend my knowledge scope to catch up with state of the art tools used in different context where data science can be used.
 <br>
 
 📫 How to reach me: email me at alireza.ahadi@uts.edu.au 
+
+<br>
+
+
+
+
+
 
 <h3> My education background </h3> 
  2008 BSC in Computer Science <br>
@@ -34,8 +44,7 @@ Work Experience: 4 years work experience of applying Data Science to different d
 &emsp;&emsp; #Data Science &ensp; #Skills Analytics &ensp; #Curriculum Analytics; #R &ensp; #AWS &ensp; #SQL &ensp;      #DynamoDB &ensp;  #PowerBI &ensp; #Burning Glass data &ensp; #EMSI 
 &ensp;  #ANZSCO    &ensp;  #Graduate-employability     &ensp;    #RecSys    &ensp;      #Similarity     &ensp;   #Skill bag     &ensp;   #Skill Scoring   <br>
 
-⚡ Currently working with UTS on TRACK's skills analytics engine: <br>
-https://www.youtube.com/watch?v=2jrEiqaWJUU&ab_channel=UniversityofTechnologySydney
+
 <br>
 <br>
 
