@@ -56,10 +56,3 @@ https://labourmarketinsights.gov.au/
 https://www.nationalskillscommission.gov.au/reports/australian-skills-classification-20
 
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
