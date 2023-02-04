@@ -6,7 +6,7 @@
 
 <h3 style="color:blue"> Me in breif </h3>
 
-Education: Phd in Data Analytics - Masters in IT - Bachelor degree in IT<br>
+<p style="color:red"> Education: </p> Phd in Data Analytics - Masters in IT - Bachelor degree in IT<br>
 <br>
 Recent Work Experience: 4 years work experience of applying Data Science to different discipliens<br>
 2019 - 2020 : #Text mining #Rapid Miner #NLP #Eye movement data analytics #Text similarity #Advanced statistics #Gene regulation analysis #Python #Deep Learning #TensorFlow #Data mining #Machine Learning<br>
