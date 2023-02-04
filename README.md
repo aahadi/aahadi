@@ -56,4 +56,10 @@ https://labourmarketinsights.gov.au/
 https://www.nationalskillscommission.gov.au/reports/australian-skills-classification-20
 
 
-<h3 style="color:blue"> Me in breif </h3>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
