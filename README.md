@@ -23,28 +23,6 @@ https://www.youtube.com/watch?v=2jrEiqaWJUU&ab_channel=UniversityofTechnologySyd
 📫 How to reach me: email me at alireza.ahadi@uts.edu.au 
 
 <br>
-
-
-
-
-
-
-<h3> My education background </h3> 
- 2008 BSC in Computer Science <br>
- 2013 MSC in Information Technology <br>
- 2018 PhD in Software Engineering focused on exploring data analytics in computer science education 
-
-<h3> My work experience </h3>
-<b> 2011 - 2019 Casual Academic at University of Technology, Sydney  </b> <br>
- &emsp;&emsp; #Lecturer &ensp; #Tutor &ensp; #Content Developer &ensp; #Databases &ensp; #Programming <br>
-<b> 2019 - 2021 Post-doc Research Fellow at Macquarie University Sydney Australia  </b> <br>
- &emsp;&emsp; #Text mining &ensp; #Natural Language Processing &ensp; #Computational Discourse &ensp; #Professional Development Design &ensp; #RapidMiner &ensp; #Python  <br>
-  
-<b> 2021 - current Post-doc Research Fellow at University of Technology Sydney Australia </b> <br>
-&emsp;&emsp; #Data Science &ensp; #Skills Analytics &ensp; #Curriculum Analytics; #R &ensp; #AWS &ensp; #SQL &ensp;      #DynamoDB &ensp;  #PowerBI &ensp; #Burning Glass data &ensp; #EMSI 
-&ensp;  #ANZSCO    &ensp;  #Graduate-employability     &ensp;    #RecSys    &ensp;      #Similarity     &ensp;   #Skill bag     &ensp;   #Skill Scoring   <br>
-
-
 <br>
 <br>
 
