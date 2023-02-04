@@ -2,17 +2,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h3 style="color:red"> Wellcome to my personal homepage </h3> 
+<h3 style="color:red"> Welcome to my personal homepage </h3> 
 
-<h4 style="color:blue"> My Data Science Journey </h4>
-
-I started playing around with data in a methodological manner for the first time in 2011 and as a casual academic in Sydney. 
+<h4 style="color:blue"> Me in breif </h4>
 
 
 
 
 
-
+<h4 style="color:blue"> Me Now </h4>
 
 🌱 I’m currently learning how to construct a taxonomy from scratch and use it to parse textual data, and am focused on technical evaluation of the skill-based presentation of curricula, and am aiming to creating a network of skillified entities where objects from different contexts (students, employers, academics, job recruiters) can speak the same (skill) language.
 <br>
@@ -46,6 +44,17 @@ Please, see my academic CV which is available for download as a word document.
 
 <h3> My Teaching Statement</h3> 
 I have experience teaching more than 5,000 students at the University of Technology in Sydney. Most of the subjects that I taught at UTS are offered by the computer science school, formally known as the Software School. The primary subjects of my interests are programming fundamentals and database fundamentals, from which the main data for my PhD were collected.
+
+
+<h4 style="color:blue"> My Data Science Journey </h4>
+
+I started playing around with data in a methodological manner for the first time in 2011 and as a casual academic (and a student of Master of Information Technology) in Sydney. As a lab assistant, my job was to read student answers from A4 papers and type them in a Microsof Excel sheet but in a csv format. My employer Raymond Lister, which later became one of the most influential figures of my life, wanted these files in csv format. Later on I learnt how to upload the data into the database, and run SQL statements to access the data. I could see all the data in one place which stroke me as both fascinating and concerning at the same time. It was fascinating because now I could see how quick and easy one can get their hands on subsets of data using a simple SQL select statement. It was concerning for two reasons:
+
+1. The analysis that Raymond did was mostly based on a bin
+
+2. 
+
+Let me go back a little bit.
 
 
 <br><br>
