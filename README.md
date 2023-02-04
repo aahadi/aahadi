@@ -2,13 +2,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<h3 style="color:red"> Wellcome to my personal homepage </h3> 
+
+<h4 style="color:blue"> My Data Science Journey </h4>
+
+I started playing around with data for in a methodological manner for the first time as a casual academic in 2011. 
 
 
-<h3> About me </h3> 
 
-Hi there! 
-
-I'm a Data scientist, or at least I like thi think that I am one! I started playing around with the data 
+I started learning t 
 
 
 
