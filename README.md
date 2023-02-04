@@ -48,13 +48,11 @@ I have experience teaching more than 5,000 students at the University of Technol
 
 <h4 style="color:blue"> My Data Science Journey </h4>
 
-I started playing around with data in a methodological manner for the first time in 2011 and as a casual academic (and a student of Master of Information Technology) in Sydney. As a lab assistant, my job was to read student answers from A4 papers and type them in a Microsof Excel sheet but in a csv format. My employer Raymond Lister, which later became one of the most influential figures of my life, wanted these files in csv format. Later on I learnt how to upload the data into the database, and run SQL statements to access the data. I could see all the data in one place which stroke me as both fascinating and concerning at the same time. It was fascinating because now I could see how quick and easy one can get their hands on subsets of data using a simple SQL select statement. It was concerning for two reasons:
+I started playing around with data in a methodological manner for the first time in 2011 and as a casual academic (and a student of Master of Information Technology) in Sydney. As a lab assistant, my job was to read student answers from A4 papers and type them in a Microsof Excel sheet but in a csv format. My employer Raymond Lister, which later became one of the most influential figures of my life, wanted these files in csv format. Later on I learnt how to upload the data into the database, and run SQL statements to access the data. I could see all the data in one place which stroke me as both fascinating and concerning at the same time. It was fascinating because now I could see how quick and easy one can get their hands on subsets of data using a simple SQL select statement. It was concerning because we were no longer looking at students on an individual basis. We had started looking at students as members of different data point groups.
 
-1. The analysis that Raymond did was mostly based on a bin
 
-2. 
 
-Let me go back a little bit.
+
 
 
 <br><br>
