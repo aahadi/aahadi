@@ -31,21 +31,9 @@ https://www.youtube.com/watch?v=2jrEiqaWJUU&ab_channel=UniversityofTechnologySyd
 
 Please, see my academic CV which is available for download as a word document.
 
-<h3> My Teaching Statement</h3> 
-I have experience teaching more than 5,000 students at the University of Technology in Sydney. Most of the subjects that I taught at UTS are offered by the computer science school, formally known as the Software School. The primary subjects of my interests are programming fundamentals and database fundamentals, from which the main data for my PhD were collected.
-
-
 <h4 style="color:blue"> My First Data Science Lesson </h4>
 
 I started playing around with data in a methodological manner for the first time in 2011 and as a casual academic (and a student of Master of Information Technology) in Sydney. As a lab assistant, my job was to read student answers from A4 papers and type them in a Microsof Excel sheet but in a csv format. My employer Raymond Lister, which later became one of the most influential figures of my life, wanted these files in csv format. Later on I learnt how to upload the data into the database, and run SQL statements to access the data. I could see all the data in one place which stroke me as both fascinating and concerning at the same time. It was fascinating because now I could see how quick and easy one can get their hands on subsets of data using a simple SQL select statement. It was concerning because we were no longer looking at students on an individual basis. We had started looking at students as members of different data point groups. I knew that better than anyone because I was the person who manually examined the students responses one by one into csv files that loaded the database later, and now I could see that we are no longer interested in analysis of the data on lower levels but like to analyse them in groups. This was also amplified due to my circumstances: I was a student and a tutor in the same university, so I could understand the negative impacts of this sort of analysis on the education research. Later I learnt that it is not the insight that you get from the data, but it is all about how well you use the data to support your argues and decisions.
-
-
-
-This observation motiveted me to do a research degree to understand how deep the rabbit hole goes. 
-
-
-
-
 
 <br><br>
 <br>
