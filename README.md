@@ -12,12 +12,12 @@ Recent Work Experience: 4 years work experience of applying Data Science to diff
 2019 - 2020 : #Text mining #Rapid Miner #NLP #Eye movement data analytics #Text similarity #Advanced statistics #Gene regulation analysis #Python #Deep Learning #TensorFlow #Data mining #Machine Learning<br>
 2021 - 2022 : #Information Retreivla #Ranking #RecSys #Labour Insight data #Lightcast (Burning Glass) #AWS #SQL #DynamoDB #API programming #R #Shiny #Document analysis #Skillification #PowerBI <br>
 
-⚡ My most recent work with UTS on TRACK's skills analytics engine: <br>
+⚡ My most recent work activity contributed to development of the skills analytics engine of TRACK: <br>
 https://www.youtube.com/watch?v=2jrEiqaWJUU&ab_channel=UniversityofTechnologySydney
 
-<h4 style="color:blue"> Me Now </h4>
+<h4 style="color:blue"> Me at the moment </h4>
 
-🌱 I’m currently trying to extend my knowledge scope to catch up with state of the art tools used in different context where data science can be used.
+🌱 On the look out to find a job as a data scientist. I’m also trying to extend my knowledge scope to catch up with state of the art tools used in different context where data science can be used.
 <br>
 
 📫 How to reach me: email me at alireza.ahadi@uts.edu.au 
