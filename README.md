@@ -23,7 +23,7 @@ On the look out to find a job as a data scientist. I’m also trying to extend m
 ⚡ Here is a figure that highlights my strengths and weaknesses for different skills and knowledge required for data science roles:
 <br>
 
-![Test Image 1](https://github.com/aahadi/aahadi/blob/main/test.png)
+![Test Image 1](https://github.com/aahadi/aahadi/blob/main/MySkillProfile.png)
 <br>
 
 
