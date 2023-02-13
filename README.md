@@ -18,9 +18,7 @@ I started playing around with data in a methodological manner for the first time
 https://www.youtube.com/watch?v=2jrEiqaWJUU&ab_channel=UniversityofTechnologySydney
 
 <h3 style="color:blue"> Currently ... 🌱 </h3>
-On the look out to find a job as a data scientist. I’m also trying to extend my knowledge scope to catch up with state of the art tools and recent techniques used in different contexts where data science can be used.
-<br>
-⚡ Here is a figure that highlights my strengths and weaknesses for different skills and knowledge required for data science roles:
+On the look out to find a job as a data scientist. I’m also trying to extend my knowledge scope to catch up with state of the art tools and recent techniques used in different contexts where data science can be used. Here is where I stand at the moment:
 <br>
 
 ![Test Image 1](https://github.com/aahadi/aahadi/blob/main/MySkillProfile.png)
