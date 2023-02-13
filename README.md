@@ -32,15 +32,16 @@ On the look out to find a job as a data scientist. I’m also trying to extend m
 ⚡ New publications: <br>
 "Skills Taught vs Skills Sought: Using Skills Analytics to Identify the Gaps between Curriculum and Job Markets" available at https://educationaldatamining.org/edm2022/proceedings/2022.EDM-posters.56/index.html
 <br>
-
+<br>
 ⚡ My fav links: <br>
 My most recent presentation: https://www.youtube.com/watch?v=HS66Fmw-uvc 
 <br>
 https://labourmarketinsights.gov.au/
 <br>
+<br>
 https://www.nationalskillscommission.gov.au/reports/australian-skills-classification-20
 <br>
-
+<br>
 ⚡ Selected publications: <br>
 <br>
 
