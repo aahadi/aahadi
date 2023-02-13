@@ -27,14 +27,17 @@ On the look out to find a job as a data scientist. I’m also trying to extend m
 <br>
 
 
+
 <br>
 ⚡ New publications: <br>
 https://educationaldatamining.org/edm2022/proceedings/2022.EDM-posters.56/index.html
 <br>
+
+
+
+
 ⚡ My fav links: <br>
 My most recent presentation: https://www.youtube.com/watch?v=HS66Fmw-uvc 
-<br>
-https://www.economicmodeling.com/2019/07/24/wgu-creates-value-by-skill-mapping-to-curriculum/?utm_medium=email&_hsmi=200189458&_hsenc=p2ANqtz-_mjEBx1m8WiLQVE6Gp_MDVzX9z5qMZvSSZwbqeqMN_KQlp_z-lAgDSf6CAQsLgtTE-wzxN9csQlqfsEDRTFveezG7pfA&utm_source=hs_email
 <br>
 https://labourmarketinsights.gov.au/
 <br>
