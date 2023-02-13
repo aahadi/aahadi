@@ -17,7 +17,7 @@ I started playing around with data in a methodological manner for the first time
 ⚡ My most recent work activity contributed to development of the skills analytics engine of TRACK: <br>
 https://www.youtube.com/watch?v=2jrEiqaWJUU&ab_channel=UniversityofTechnologySydney
 
-<h3 style="color:blue"> Currently 🌱 </h3>
+<h3 style="color:blue"> Currently ... 🌱 </h3>
 On the look out to find a job as a data scientist. I’m also trying to extend my knowledge scope to catch up with state of the art tools and recent techniques used in different contexts where data science can be used.
 <br>
 ⚡ Here is a figure that highlights my strengths and weaknesses for different skills and knowledge required for data science roles:
@@ -26,15 +26,12 @@ On the look out to find a job as a data scientist. I’m also trying to extend m
 ![Test Image 1](https://github.com/aahadi/aahadi/blob/main/MySkillProfile.png)
 <br>
 
-
+<h3 style="color:blue"> Interests and activities 🌱 </h3>
 
 <br>
 ⚡ New publications: <br>
-https://educationaldatamining.org/edm2022/proceedings/2022.EDM-posters.56/index.html
+"Skills Taught vs Skills Sought: Using Skills Analytics to Identify the Gaps between Curriculum and Job Markets" available at https://educationaldatamining.org/edm2022/proceedings/2022.EDM-posters.56/index.html
 <br>
-
-
-
 
 ⚡ My fav links: <br>
 My most recent presentation: https://www.youtube.com/watch?v=HS66Fmw-uvc 
@@ -44,5 +41,6 @@ https://labourmarketinsights.gov.au/
 https://www.nationalskillscommission.gov.au/reports/australian-skills-classification-20
 <br>
 
-
+⚡ Selected publications: <br>
+<br>
 
