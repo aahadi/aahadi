@@ -34,7 +34,8 @@ On the look out to find a job as a data scientist. I’m also trying to extend m
 <br>
 <br>
 ⚡ My fav links: <br>
-My most recent presentation: https://www.youtube.com/watch?v=HS66Fmw-uvc 
+My recent presentation: https://www.youtube.com/watch?v=HS66Fmw-uvc 
+<br>
 <br>
 Discover trends in the Australian Jobs Market https://labourmarketinsights.gov.au/
 <br>
