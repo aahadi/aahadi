@@ -55,4 +55,7 @@ https://labourmarketinsights.gov.au/
 
 https://www.nationalskillscommission.gov.au/reports/australian-skills-classification-20
 
-
+<br>
+<br>
+⚡ My Skills profile: <br>
+Image for skills and occupations in picture
