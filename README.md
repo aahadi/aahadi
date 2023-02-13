@@ -36,10 +36,10 @@ On the look out to find a job as a data scientist. I’m also trying to extend m
 ⚡ My fav links: <br>
 My most recent presentation: https://www.youtube.com/watch?v=HS66Fmw-uvc 
 <br>
-https://labourmarketinsights.gov.au/
+Discover trends in the Australian Jobs Market https://labourmarketinsights.gov.au/
 <br>
 <br>
-https://www.nationalskillscommission.gov.au/reports/australian-skills-classification-20
+Australian Skills Classification 2.0 https://www.nationalskillscommission.gov.au/reports/australian-skills-classification-20
 <br>
 <br>
 ⚡ Selected publications: <br>
